@@ -1,0 +1,155 @@
+2018-09-20 20:59:12 INFO  Main:? - get method accessed
+2018-09-20 20:59:12 DEBUG DbUtils:? - table already exists
+2018-09-20 20:59:12 DEBUG DbUtils:? - DbUtils.getInstance() invoked
+2018-09-20 21:00:28 INFO  Main:2018-09-20 21:00:29 DEBUG DbUtils:2018-09-20 21:00:29 DEBUG DbUtils:2018-09-20 21:01:38 INFO  Main: - get method accessed
+2018-09-20 21:01:38 DEBUG DbUtils: - table already exists
+2018-09-20 21:01:38 DEBUG DbUtils: - DbUtils.getInstance() invoked
+2018-09-20 21:02:05 INFO  Main: - get method accessed
+2018-09-20 21:02:21 INFO  Main: - get method accessed
+2018-09-20 21:15:52 INFO  Main: - get method accessed
+2018-09-20 21:20:07 INFO  Main: - get method accessed
+2018-09-20 21:20:07 DEBUG DbUtils: - DbUtils.getInstance() invoked
+2018-09-20 21:20:22 INFO  Main: - get method accessed
+2018-09-20 22:50:14 INFO  Main: - get method accessed
+2018-09-20 22:50:14 DEBUG DbUtils: - table LS_CONF already exists
+2018-09-20 22:50:14 DEBUG DbUtils: - DbUtils.getInstance() invoked
+2018-09-20 22:51:23 INFO  Main: - get method accessed
+2018-09-20 22:51:23 DEBUG DbUtils: - table LS_CONF already exists
+2018-09-20 22:51:23 DEBUG DbUtils: - DbUtils.getInstance() invoked
+2018-09-20 22:51:23 DEBUG ProfileManager: - Creating table LS_USER
+2018-09-20 22:51:23 INFO  Main: - Res: LSResult(200, User not found, false)
+2018-09-20 23:04:27 INFO  Main: - get method accessed
+2018-09-20 23:04:27 DEBUG DbUtils: - table LS_CONF already exists
+2018-09-20 23:04:27 DEBUG DbUtils: - DbUtils.getInstance() invoked
+2018-09-20 23:04:27 DEBUG ProfileManager: - table LS_USER already exists
+2018-09-20 23:04:27 INFO  Main: - Res: LSResult(200, incorrect password, false)
+2018-09-20 23:05:50 INFO  Main: - get method accessed
+2018-09-20 23:05:50 DEBUG DbUtils: - table LS_CONF already exists
+2018-09-20 23:05:50 DEBUG DbUtils: - DbUtils.getInstance() invoked
+2018-09-20 23:05:50 DEBUG ProfileManager: - table LS_USER already exists
+2018-09-20 23:05:50 INFO  Main: - Res: LSResult(200, User not found, true)
+2018-09-22 18:33:14 INFO  Main: - get method accessed
+2018-09-22 18:33:14 DEBUG DbUtils: - table LS_CONF already exists
+2018-09-22 18:33:14 DEBUG DbUtils: - DbUtils.getInstance() invoked
+2018-09-22 18:33:15 DEBUG ProfileManager: - table LS_USER already exists
+2018-09-22 18:33:15 INFO  Main: - Res: LSResult(200, authenticated, true)
+2018-10-02 22:11:27 INFO  Main: - get method accessed
+2018-10-02 22:11:27 DEBUG DbUtils: - table LS_CONF already exists
+2018-10-02 22:11:27 DEBUG DbUtils: - DbUtils.getInstance() invoked
+2018-10-02 22:11:27 DEBUG ProfileManager: - table LS_USER already exists
+2018-10-02 22:11:28 INFO  Main: - Res: LSResult(200, authenticated, true)
+2018-10-02 22:13:16 INFO  Main: - get method accessed
+2018-10-02 22:15:17 INFO  Main: - get method accessed
+2018-10-02 22:21:55 INFO  Main: - get method accessed
+2018-10-02 22:23:03 INFO  Main: - get method accessed
+2018-10-02 22:23:03 INFO  Main: - {"password":"123456","role":"Music Buff","email":"gkhoueiry@murex.com"}
+2018-10-02 22:42:15 INFO  Main: - ls/auth
+2018-10-02 22:42:15 DEBUG DbUtils: - table LS_CONF already exists
+2018-10-02 22:42:15 DEBUG DbUtils: - DbUtils.getInstance() invoked
+2018-10-02 22:42:15 DEBUG ProfileManager: - table LS_USER already exists
+2018-10-02 22:42:16 INFO  Main: - Res: loustic.LSResult(200, authenticated, true)
+2018-10-02 22:49:54 INFO  Main: - ls/auth
+2018-10-02 22:49:54 DEBUG DbUtils: - table LS_CONF already exists
+2018-10-02 22:49:54 DEBUG DbUtils: - DbUtils.getInstance() invoked
+2018-10-02 22:49:54 DEBUG ProfileManager: - table LS_USER already exists
+2018-10-02 22:49:54 INFO  Main: - Res: loustic.LSResult(200, authenticated, true)
+2018-10-02 23:47:03 INFO  Main: - get method accessed
+2018-10-02 23:47:03 INFO  Main: - {"password":"123456","role":"Music Buff","email":"gkhoueiry@murex.com"}
+2018-10-02 23:47:03 INFO  Main: - {"bandMembers":[{"recorder":"yes","micClip":"no_clip","mic":"MC Doom","phanton":"wtv this is","dI":"dO","stand":"sit_better","cable":"youjad","role":"Bystander","name":"Georges KH"}],"manager":"Fahed","songs":[{"msgs":[],"title":"Layali Operate","lyricsBy":"Chris","publisher":"Hussein","signedContract":false,"id":-1,"lousticReleaseDate":"12/12/2018","contractLink":"http://www.google.com","label":"OMX","isOriginal":true,"composedBy":"Bob"}],"plannedDate":"22/11/2018","id":-1,"endTime":null,"thanks":{"Mom":"Mjaddra","Abou Karim":"Tonzim"},"band":"Jorj","location":{"phone":"9613169065","address":"La_Casa","host":"Professor","email":"g@khoueiry"},"startTime":""}
+2018-10-03 00:12:45 INFO  Main: - ls/auth
+2018-10-03 00:12:45 DEBUG DbUtils: - table LS_CONF already exists
+2018-10-03 00:12:45 DEBUG DbUtils: - DbUtils.getInstance() invoked
+2018-10-03 00:12:45 DEBUG ProfileManager: - table LS_USER already exists
+2018-10-03 00:12:45 INFO  Main: - Res: loustic.LSResult(200, authenticated, true)
+2018-11-26 13:51:27 DEBUG SocketManager: - Starting SocketManager
+2018-11-26 13:51:27 INFO  SocketManager: - SocketServer started on port 4444
+2018-11-26 13:51:27 DEBUG Main: - String ratpack REST server
+2018-11-26 13:51:28 DEBUG SocketManager: - Starting SocketManager
+2018-11-26 13:51:28 ERROR SocketManager: - Address already in use: JVM_Bind
+2018-11-26 13:51:28 ERROR SocketManager: - [Ljava.lang.StackTraceElement;@fff25f1
+2018-11-26 13:51:28 DEBUG Main: - String ratpack REST server
+2018-12-01 11:24:09 DEBUG SocketManager: - Starting SocketManager
+2018-12-01 11:24:09 INFO  SocketManager: - SocketServer started on port 4444
+2018-12-01 11:24:09 DEBUG Main: - String ratpack REST server
+2018-12-01 11:24:10 DEBUG SocketManager: - Starting SocketManager
+2018-12-01 11:24:10 ERROR SocketManager: - Address already in use: JVM_Bind
+2018-12-01 11:24:10 ERROR SocketManager: - [Ljava.lang.StackTraceElement;@fff25f1
+2018-12-01 11:24:10 DEBUG Main: - String ratpack REST server
+2018-12-01 12:00:00 DEBUG SocketManager: - Starting SocketManager
+2018-12-01 12:00:00 INFO  SocketManager: - SocketServer started on port 12001
+2018-12-01 12:00:01 DEBUG Main: - String ratpack REST server
+2018-12-01 12:00:01 DEBUG SocketManager: - Starting SocketManager
+2018-12-01 12:00:01 ERROR SocketManager: - Address already in use: JVM_Bind
+2018-12-01 12:00:01 ERROR SocketManager: - [Ljava.lang.StackTraceElement;@fff25f1
+2018-12-01 12:00:01 DEBUG Main: - String ratpack REST server
+2018-12-01 12:05:25 DEBUG SocketManager: - Starting SocketManager
+2018-12-01 12:05:25 INFO  SocketManager: - SocketServer started on port 12001
+2018-12-01 12:05:25 DEBUG Main: - Starting ratpack REST server
+2018-12-01 12:05:26 DEBUG SocketManager: - Starting SocketManager
+2018-12-01 12:05:26 ERROR SocketManager: - Address already in use: JVM_Bind
+2018-12-01 12:05:26 ERROR SocketManager: - [Ljava.lang.StackTraceElement;@fff25f1
+2018-12-01 12:05:26 DEBUG Main: - Starting ratpack REST server
+2018-12-01 12:06:55 INFO  Main: - ls/auth
+2018-12-01 12:06:55 DEBUG DbUtils: - table LS_CONF already exists
+2018-12-01 12:06:55 DEBUG DbUtils: - DbUtils.getInstance() invoked
+2018-12-01 12:06:55 DEBUG ProfileManager: - table LS_USER already exists
+2018-12-01 12:06:55 INFO  Main: - Res: loustic.LSResult(200, authenticated, true)
+2018-12-01 12:09:12 DEBUG Main: - Body is {"bandMembers":[{"recorder":"yes","micClip":"no_clip","mic":"MC Doom","phanton":"wtv this is","dI":"dO","stand":"sit_better","cable":"youjad","role":"Bystander","name":"Georges KH"}],"manager":"Fahed","songs":[{"msgs":[],"title":"LayaliOperate","lyricsBy":"Chris","publisher":"Hussein","signedContract":false,"id":-1,"lousticReleaseDate":"12/12/2018","contractLink":"http://www.google.com","label":"OMX","isOriginal":true,"composedBy":"Bob"}],"plannedDate":"22/11/2018","id":-1,"endTime":null,"thanks":{"Mom":"Mjaddra","Abou Karim":"Tonzim"},"band":"Jorj","location":{"phone":"9613169065","address":"La_Casa","host":"Professor","email":"g@khoueiry"},"startTime":""}
+2018-12-01 12:09:12 INFO  Main: - put ls/session
+2018-12-01 12:09:12 DEBUG SessionManager: - Creating table LS_SESSION
+2018-12-01 12:09:12 ERROR SessionManager: - [SQLITE_ERROR] SQL error or missing database (table LS_SESSION has no column named SESSION)
+2018-12-01 12:09:12 ERROR SessionManager: - [Ljava.lang.StackTraceElement;@54de893f
+2018-12-01 12:09:12 INFO  Main: - Res: loustic.LSResult(500, failed to create session, false)
+2018-12-01 12:10:52 DEBUG SocketManager: - Starting SocketManager
+2018-12-01 12:10:52 INFO  SocketManager: - SocketServer started on port 12001
+2018-12-01 12:10:52 DEBUG Main: - Starting ratpack REST server
+2018-12-01 12:10:53 DEBUG SocketManager: - Starting SocketManager
+2018-12-01 12:10:53 ERROR SocketManager: - Address already in use: JVM_Bind
+2018-12-01 12:10:53 ERROR SocketManager: - [Ljava.lang.StackTraceElement;@fff25f1
+2018-12-01 12:10:53 DEBUG Main: - Starting ratpack REST server
+2018-12-01 12:16:01 DEBUG Main: - Body is {"bandMembers":[{"recorder":"yes","micClip":"no_clip","mic":"MC Doom","phanton":"wtv this is","dI":"dO","stand":"sit_better","cable":"youjad","role":"Bystander","name":"Georges KH"}],"manager":"Fahed","songs":[{"msgs":[],"title":"LayaliOperate","lyricsBy":"Chris","publisher":"Hussein","signedContract":false,"id":-1,"lousticReleaseDate":"12/12/2018","contractLink":"http://www.google.com","label":"OMX","isOriginal":true,"composedBy":"Bob"}],"plannedDate":"22/11/2018","id":-1,"endTime":null,"thanks":{"Mom":"Mjaddra","Abou Karim":"Tonzim"},"band":"Jorj","location":{"phone":"9613169065","address":"La_Casa","host":"Professor","email":"g@khoueiry"},"startTime":""}
+2018-12-01 12:16:01 INFO  Main: - put ls/session
+2018-12-01 12:16:01 DEBUG DbUtils: - table LS_CONF already exists
+2018-12-01 12:16:01 DEBUG DbUtils: - DbUtils.getInstance() invoked
+2018-12-01 12:16:01 DEBUG SessionManager: - table LS_SESSION already exists
+2018-12-01 12:16:01 ERROR SessionManager: - database in auto-commit mode
+2018-12-01 12:16:01 ERROR SessionManager: - [Ljava.lang.StackTraceElement;@70ed46ca
+2018-12-01 12:16:01 INFO  Main: - Res: loustic.LSResult(500, failed to create session, false)
+2018-12-01 12:19:28 DEBUG SocketManager: - Starting SocketManager
+2018-12-01 12:19:28 INFO  SocketManager: - SocketServer started on port 12001
+2018-12-01 12:19:28 DEBUG Main: - Starting ratpack REST server
+2018-12-01 12:19:29 DEBUG SocketManager: - Starting SocketManager
+2018-12-01 12:19:29 ERROR SocketManager: - Address already in use: JVM_Bind
+2018-12-01 12:19:29 ERROR SocketManager: - [Ljava.lang.StackTraceElement;@fff25f1
+2018-12-01 12:19:29 DEBUG Main: - Starting ratpack REST server
+2018-12-01 12:20:03 DEBUG Main: - Body is {"bandMembers":[{"recorder":"yes","micClip":"no_clip","mic":"MC Doom","phanton":"wtv this is","dI":"dO","stand":"sit_better","cable":"youjad","role":"Bystander","name":"Georges KH"}],"manager":"Fahed","songs":[{"msgs":[],"title":"LayaliOperate","lyricsBy":"Chris","publisher":"Hussein","signedContract":false,"id":-1,"lousticReleaseDate":"12/12/2018","contractLink":"http://www.google.com","label":"OMX","isOriginal":true,"composedBy":"Bob"}],"plannedDate":"22/11/2018","id":-1,"endTime":null,"thanks":{"Mom":"Mjaddra","Abou Karim":"Tonzim"},"band":"Jorj","location":{"phone":"9613169065","address":"La_Casa","host":"Professor","email":"g@khoueiry"},"startTime":""}
+2018-12-01 12:20:03 INFO  Main: - put ls/session
+2018-12-01 12:20:03 DEBUG DbUtils: - table LS_CONF already exists
+2018-12-01 12:20:03 DEBUG DbUtils: - DbUtils.getInstance() invoked
+2018-12-01 12:20:03 DEBUG SessionManager: - table LS_SESSION already exists
+2018-12-01 12:20:03 INFO  Main: - Res: loustic.LSResult(201, session created, true)
+2018-12-01 12:20:15 DEBUG Main: - Body is {"bandMembers":[{"recorder":"yes","micClip":"no_clip","mic":"MC Doom","phanton":"wtv this is","dI":"dO","stand":"sit_better","cable":"youjad","role":"Bystander","name":"Georges KH"}],"manager":"Fahed","songs":[{"msgs":[],"title":"LayaliOperate","lyricsBy":"Chris","publisher":"Hussein","signedContract":false,"id":-1,"lousticReleaseDate":"12/12/2018","contractLink":"http://www.google.com","label":"OMX","isOriginal":true,"composedBy":"Bob"}],"plannedDate":"22/11/2018","id":-1,"endTime":null,"thanks":{"Mom":"Mjaddra","Abou Karim":"Tonzim"},"band":"Jorj","location":{"phone":"9613169065","address":"La_Casa","host":"Professor","email":"g@khoueiry"},"startTime":""}
+2018-12-01 12:20:15 INFO  Main: - put ls/session
+2018-12-01 12:20:15 INFO  Main: - Res: loustic.LSResult(201, session created, true)
+2018-12-01 12:22:22 INFO  Main: - ls/session/all
+2018-12-01 12:22:22 INFO  Main: - Res: [{"bandMembers":[{"recorder":"yes","micClip":"no_clip","mic":"MC Doom","phanton":"wtv this is","dI":"dO","stand":"sit_better","cable":"youjad","role":"Bystander","name":"Georges KH"}],"manager":"Fahed","songs":[{"msgs":[],"title":"LayaliOperate","lyricsBy":"Chris","publisher":"Hussein","signedContract":false,"id":-1,"lousticReleaseDate":"12/12/2018","contractLink":"http://www.google.com","label":"OMX","isOriginal":true,"composedBy":"Bob"}],"plannedDate":"22/11/2018","id":1,"endTime":null,"thanks":{"Mom":"Mjaddra","Abou Karim":"Tonzim"},"band":"Jorj","location":{"phone":"9613169065","address":"La_Casa","host":"Professor","email":"g@khoueiry"},"startTime":""},{"bandMembers":[{"recorder":"yes","micClip":"no_clip","mic":"MC Doom","phanton":"wtv this is","dI":"dO","stand":"sit_better","cable":"youjad","role":"Bystander","name":"Georges KH"}],"manager":"Fahed","songs":[{"msgs":[],"title":"LayaliOperate","lyricsBy":"Chris","publisher":"Hussein","signedContract":false,"id":-1,"lousticReleaseDate":"12/12/2018","contractLink":"http://www.google.com","label":"OMX","isOriginal":true,"composedBy":"Bob"}],"plannedDate":"22/11/2018","id":2,"endTime":null,"thanks":{"Mom":"Mjaddra","Abou Karim":"Tonzim"},"band":"Jorj","location":{"phone":"9613169065","address":"La_Casa","host":"Professor","email":"g@khoueiry"},"startTime":""},{"bandMembers":[{"recorder":"yes","micClip":"no_clip","mic":"MC Doom","phanton":"wtv this is","dI":"dO","stand":"sit_better","cable":"youjad","role":"Bystander","name":"Georges KH"}],"manager":"Fahed","songs":[{"msgs":[],"title":"LayaliOperate","lyricsBy":"Chris","publisher":"Hussein","signedContract":false,"id":-1,"lousticReleaseDate":"12/12/2018","contractLink":"http://www.google.com","label":"OMX","isOriginal":true,"composedBy":"Bob"}],"plannedDate":"22/11/2018","id":3,"endTime":null,"thanks":{"Mom":"Mjaddra","Abou Karim":"Tonzim"},"band":"Jorj","location":{"phone":"9613169065","address":"La_Casa","host":"Professor","email":"g@khoueiry"},"startTime":""}]
+2018-12-01 12:38:37 DEBUG SocketManager: - Starting SocketManager
+2018-12-01 12:38:37 INFO  SocketManager: - SocketServer started on port 12001
+2018-12-01 12:38:38 DEBUG Main: - Starting ratpack REST server
+2018-12-01 12:38:38 DEBUG SocketManager: - Starting SocketManager
+2018-12-01 12:38:38 ERROR SocketManager: - Address already in use: JVM_Bind
+2018-12-01 12:38:38 ERROR SocketManager: - [Ljava.lang.StackTraceElement;@fff25f1
+2018-12-01 12:38:38 DEBUG Main: - Starting ratpack REST server
+2018-12-01 12:39:06 INFO  Main: - ls/session/all
+2018-12-01 12:39:06 DEBUG DbUtils: - table LS_CONF already exists
+2018-12-01 12:39:06 DEBUG DbUtils: - DbUtils.getInstance() invoked
+2018-12-01 12:39:06 DEBUG SessionManager: - table LS_SESSION already exists
+2018-12-01 12:39:06 INFO  Main: - Res: [{"bandMembers":[{"recorder":"yes","micClip":"no_clip","mic":"MC Doom","phanton":"wtv this is","dI":"dO","stand":"sit_better","cable":"youjad","role":"Bystander","name":"Georges KH"}],"manager":"Fahed","songs":[{"msgs":[],"title":"LayaliOperate","lyricsBy":"Chris","publisher":"Hussein","signedContract":false,"id":-1,"lousticReleaseDate":"12/12/2018","contractLink":"http://www.google.com","label":"OMX","isOriginal":true,"composedBy":"Bob"}],"plannedDate":"22/11/2018","id":1,"endTime":null,"thanks":{"Mom":"Mjaddra","Abou Karim":"Tonzim"},"band":"Jorj","location":{"phone":"9613169065","address":"La_Casa","host":"Professor","email":"g@khoueiry"},"startTime":""},{"bandMembers":[{"recorder":"yes","micClip":"no_clip","mic":"MC Doom","phanton":"wtv this is","dI":"dO","stand":"sit_better","cable":"youjad","role":"Bystander","name":"Georges KH"}],"manager":"Fahed","songs":[{"msgs":[],"title":"LayaliOperate","lyricsBy":"Chris","publisher":"Hussein","signedContract":false,"id":-1,"lousticReleaseDate":"12/12/2018","contractLink":"http://www.google.com","label":"OMX","isOriginal":true,"composedBy":"Bob"}],"plannedDate":"22/11/2018","id":2,"endTime":null,"thanks":{"Mom":"Mjaddra","Abou Karim":"Tonzim"},"band":"Jorj","location":{"phone":"9613169065","address":"La_Casa","host":"Professor","email":"g@khoueiry"},"startTime":""},{"bandMembers":[{"recorder":"yes","micClip":"no_clip","mic":"MC Doom","phanton":"wtv this is","dI":"dO","stand":"sit_better","cable":"youjad","role":"Bystander","name":"Georges KH"}],"manager":"Fahed","songs":[{"msgs":[],"title":"LayaliOperate","lyricsBy":"Chris","publisher":"Hussein","signedContract":false,"id":-1,"lousticReleaseDate":"12/12/2018","contractLink":"http://www.google.com","label":"OMX","isOriginal":true,"composedBy":"Bob"}],"plannedDate":"22/11/2018","id":3,"endTime":null,"thanks":{"Mom":"Mjaddra","Abou Karim":"Tonzim"},"band":"Jorj","location":{"phone":"9613169065","address":"La_Casa","host":"Professor","email":"g@khoueiry"},"startTime":""}]
+2018-12-01 12:39:13 DEBUG Main: - Body is {"bandMembers":[{"recorder":"yes","micClip":"no_clip","mic":"MC Doom","phanton":"wtv this is","dI":"dO","stand":"sit_better","cable":"youjad","role":"Bystander","name":"Georges KH"}],"manager":"Fahed","songs":[{"msgs":[],"title":"LayaliOperate","lyricsBy":"Chris","publisher":"Hussein","signedContract":false,"id":-1,"lousticReleaseDate":"12/12/2018","contractLink":"http://www.google.com","label":"OMX","isOriginal":true,"composedBy":"Bob"}],"plannedDate":"22/11/2018","id":-1,"endTime":null,"thanks":{"Mom":"Mjaddra","Abou Karim":"Tonzim"},"band":"Jorj","location":{"phone":"9613169065","address":"La_Casa","host":"Professor","email":"g@khoueiry"},"startTime":""}
+2018-12-01 12:39:13 INFO  Main: - delete ls/session
+2018-12-01 12:39:13 INFO  SessionManager: - Deleting session -1 from dB
+2018-12-01 12:44:34 DEBUG Main: - Body is {"bandMembers":[{"recorder":"yes","micClip":"no_clip","mic":"MC Doom","phanton":"wtv this is","dI":"dO","stand":"sit_better","cable":"youjad","role":"Bystander","name":"Georges KH"}],"manager":"Fahed","songs":[{"msgs":[],"title":"LayaliOperate","lyricsBy":"Chris","publisher":"Hussein","signedContract":false,"id":-1,"lousticReleaseDate":"12/12/2018","contractLink":"http://www.google.com","label":"OMX","isOriginal":true,"composedBy":"Bob"}],"plannedDate":"22/11/2018","id":2,"endTime":null,"thanks":{"Mom":"Mjaddra","Abou Karim":"Tonzim"},"band":"Jorj","location":{"phone":"9613169065","address":"La_Casa","host":"Professor","email":"g@khoueiry"},"startTime":""}
+2018-12-01 12:44:34 INFO  Main: - delete ls/session
+2018-12-01 12:44:34 INFO  SessionManager: - Deleting session 2 from dB
+2018-12-01 12:45:32 INFO  Main: - ls/session/all
+2018-12-01 12:45:32 INFO  Main: - Res: [{"bandMembers":[{"recorder":"yes","micClip":"no_clip","mic":"MC Doom","phanton":"wtv this is","dI":"dO","stand":"sit_better","cable":"youjad","role":"Bystander","name":"Georges KH"}],"manager":"Fahed","songs":[{"msgs":[],"title":"LayaliOperate","lyricsBy":"Chris","publisher":"Hussein","signedContract":false,"id":-1,"lousticReleaseDate":"12/12/2018","contractLink":"http://www.google.com","label":"OMX","isOriginal":true,"composedBy":"Bob"}],"plannedDate":"22/11/2018","id":1,"endTime":null,"thanks":{"Mom":"Mjaddra","Abou Karim":"Tonzim"},"band":"Jorj","location":{"phone":"9613169065","address":"La_Casa","host":"Professor","email":"g@khoueiry"},"startTime":""},{"bandMembers":[{"recorder":"yes","micClip":"no_clip","mic":"MC Doom","phanton":"wtv this is","dI":"dO","stand":"sit_better","cable":"youjad","role":"Bystander","name":"Georges KH"}],"manager":"Fahed","songs":[{"msgs":[],"title":"LayaliOperate","lyricsBy":"Chris","publisher":"Hussein","signedContract":false,"id":-1,"lousticReleaseDate":"12/12/2018","contractLink":"http://www.google.com","label":"OMX","isOriginal":true,"composedBy":"Bob"}],"plannedDate":"22/11/2018","id":3,"endTime":null,"thanks":{"Mom":"Mjaddra","Abou Karim":"Tonzim"},"band":"Jorj","location":{"phone":"9613169065","address":"La_Casa","host":"Professor","email":"g@khoueiry"},"startTime":""}]
